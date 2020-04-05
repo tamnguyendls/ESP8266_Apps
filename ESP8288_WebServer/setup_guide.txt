@@ -1,0 +1,4 @@
+Install *.zip library on Arduino IDE
+    Select "Sketch" -> "Include Library" -> "Add .ZIP Library"
+
+Tools -> "ESP8266 Sketch Data Upload" and wait until 100% up load web server data into the ESP8266 module
