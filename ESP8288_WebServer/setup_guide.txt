@@ -1,4 +1,9 @@
-Install *.zip library on Arduino IDE
-    Select "Sketch" -> "Include Library" -> "Add .ZIP Library"
+Step 1: Install lib
+    Installing the ESPAsyncWebServer library (https://github.com/me-no-dev/ESPAsyncWebServer/archive/master.zip)
+    Installing the ESPAsyncTCP (https://github.com/me-no-dev/ESPAsyncTCP/archive/master.zip)
+    
+    Hint:
+        Install *.zip library on Arduino IDE
+        Select "Sketch" -> "Include Library" -> "Add .ZIP Library"
 
 Tools -> "ESP8266 Sketch Data Upload" and wait until 100% up load web server data into the ESP8266 module
